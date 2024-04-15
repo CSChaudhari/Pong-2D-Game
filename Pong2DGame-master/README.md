@@ -1,7 +1,5 @@
 ﻿# Pong-2D-Game
 
-![Gameplay Screenshot](pong_screenshot.png)
-
 ## Overview
 This is a simple 2D Pong game developed using Android Studio. The game follows the classic Pong gameplay mechanics, where players control paddles to hit a ball back and forth across the screen. It's a fun project to learn about basic game development concepts, UI design, and user input handling in Android.
 
